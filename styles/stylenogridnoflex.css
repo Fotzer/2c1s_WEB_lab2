@@ -1,0 +1,94 @@
+.blue {
+    background-color: #c8dcf4;
+}
+
+.div1 {
+    min-height: 25vh;
+    border: 1px black solid;
+    padding-top: 10%;
+}
+
+.x {
+    display: inline-block;
+    background-color: white;
+    border: 1px black solid;
+    width: fit-content;
+    margin-left: 30px;
+    padding: 10px;
+}
+
+.div1text {
+    display: inline-block;
+    margin-left: 60%;
+}
+
+.midbody {
+    min-height: 50vh;
+}
+
+.div2 {
+    background-color: #ffecdc;
+    display: inline-block;
+    height: 50vh;
+    width: 25%;
+}
+
+.div3 {
+    background-color: #f0f4dc;
+    text-align: center;
+    height: 5vh;
+    width: 74%;
+    display: inline-block;
+}
+
+.div4 {
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    width: 40%;
+    height: 40vh;    
+}
+
+.div5 {
+    background-color: #ffecdc;
+    text-align: center;
+    display: inline-block;
+}
+
+.div6 {
+    background-color: #f0f4dc;
+    text-align: center;
+    display: inline-block;
+}
+
+.div7 {
+    min-height: 25vh;
+    border: 1px black solid;
+    align-items: center;
+}
+
+.div7content {
+    margin-top: 10%;
+}
+
+.div7text {
+    display: inline-block;
+}
+
+.y {
+    display: inline-block;
+    background-color: white;
+    border: 1px black solid;
+    width: fit-content;
+    margin-left: 40%;
+    margin-right: 30px;
+    padding: 10px 20px 10px 0;
+}
+
+.mainpageimage {
+    width: 100%;
+}
+
+.mapimage{
+    width: 150px;
+}
